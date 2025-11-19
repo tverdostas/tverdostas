@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8U12Z0R5qY4/giphy.gif" width="300" alt="Приветствие"/>
-</div>
-
 <h1 align="center">Привет, меня зовут Анастасия 👋</h1>
 <h3 align="center">QA Engineer</h3>
 
