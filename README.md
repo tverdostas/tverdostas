@@ -30,6 +30,8 @@
 #### (https://github.com/tverdostas/qaguru_diploma_mobile)
 > Диплом QA.GURU автотесты для Битрикс.24 мобильное приложение
 
+![Codewars](https://github.r2v.ch/codewars?user=anastasnanas)
+
 ---
 
 ### 📬 Связаться со мной
